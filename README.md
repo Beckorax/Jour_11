@@ -1,3 +1,3 @@
-Aujourd'hui, tu vas automatiser la récupération massive de données issus de sites internet (= tu vas scraper). Tes compétences en en Ruby et en HTML vont te permettre de récupérer ces informations en moins d'une journée. Tu t'amuseras avec le cours des cryptomonnaies, tu iras récupérer les e-mails des mairies de notre beau pays, puis tu chopperas la liste des e-mails des députés de France. Tu ne te penses pas capable de tout ça ? Et bien tu vas voir que si.
+On va faire ce projet de façon progressive : on va déjà produire une version 1.0 en te guidant, puis on passera à une version 2.0 un peu plus recherchée et moins guidée pour conclure sur une version 3.0 où on te donnera juste les directives !
 
-Les standards habituels seront attendus : un dossier bien rangé, de beaux README et Gemfile, des tests qui vérifient que tout fonctionne.
+C'est un projet relativement long et complet : l'objectif est a minima que tu puisses finir la version 1.0 pour valider le projet (il faut bien sûr qu'elle marche !). Mais on est persuadé qu'en vous aidant les uns les autres, vous arriverez à aller plus loin !
